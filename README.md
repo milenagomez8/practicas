@@ -1,2 +1,2 @@
 # practicas
-hola putxs
+hola
