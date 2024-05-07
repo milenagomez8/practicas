@@ -1,2 +1,3 @@
 # practicas
-hola
+hola 
+Simon primo 
