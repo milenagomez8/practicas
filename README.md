@@ -1,2 +1,2 @@
 # practicas
-hola putos
+hola putxs
